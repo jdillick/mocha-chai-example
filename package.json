@@ -1,0 +1,16 @@
+{
+  "name": "chase-js-test",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "promise": "^7.1.1"
+  }
+}
